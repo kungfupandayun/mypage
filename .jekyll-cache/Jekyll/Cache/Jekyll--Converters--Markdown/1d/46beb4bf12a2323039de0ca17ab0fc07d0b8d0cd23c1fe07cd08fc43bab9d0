@@ -1,0 +1,13 @@
+I"@<p>Minesweeper is a very common game. This game consists of a grid of clickable squares, with hidden “mines” scattered throughout the board. The objective is to clear the board without detonating any mines, with help from clues about the number of neighboring mines in each field.</p>
+
+<p>This is my first project that i and my teammate developped back then in 2017. The technical part of this game is quite intuitive. The scatter of bombs using math.random. The calculation of hint done after the scatter of bombs.</p>
+
+<p><a href="\assets\images\minesweeper.jpg">
+    <center>
+        <img src="\assets\images\minesweeper.jpg" alt="Minesweeper on terminal" />
+    </center>
+</a></p>
+
+<p><a href="http://localhost:4000/assets/executables/demineur_final.zip">Here’s an executable file that you can download and play!</a></p>
+
+:ET

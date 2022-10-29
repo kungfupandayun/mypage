@@ -1,0 +1,10 @@
+I"�<p>On May 25, 2018, The General Data Protection Regulation (EU) became enforceable across Europe. The GDPR is an important millestone for privacy law and of human rights law. This project is meant to scrap from the web and dynamically generate report on the overview of fines and penalties which data protection authorities within the EU have imposed. It was written in Pyhon using libraries such as panda (manipulating data), jinja(to construct template) and pygoogletranslation (for govermental report written in non English). Here’s some examples of the report geneterated.</p>
+
+<p><a href="https://github.com/kungfupandayun/kungfupandayun/tree/main/gdpr_data_analysis-master">
+    Code Source
+</a></p>
+
+<p><a href="http://localhost:4000/assets/documents/report_2020_en.pdf">Here’s an example of the report (pdf)</a> <br />
+<a href="http://localhost:4000/assets/documents/report_2020_fr.pdf">Here’s an example of the report (latex)</a> <br /></p>
+
+:ET

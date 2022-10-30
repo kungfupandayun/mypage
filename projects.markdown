@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projects
-permalink: /mypage/projects/
+permalink: /projects/
 
 ---
 <ul>

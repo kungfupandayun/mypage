@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Java Carpooling application"
-date:   2022-09-28 18:09:14 +0800
 categories: projects
 ---
 In this project, we have built a java application for carpooling purpose somesort of the famous application in Europe -- Blablacar. This project stressed more on the application design and less on the algorithm running behind. 

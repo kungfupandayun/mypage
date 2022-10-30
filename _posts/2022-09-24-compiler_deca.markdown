@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Compiler for a programming language"
-date:   2022-09-24 18:09:14 +0800
 categories: projects
 ---
 

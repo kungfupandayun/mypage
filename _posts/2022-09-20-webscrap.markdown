@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Scrapping from a website and generate pdf reports using Latex"
-date:   2022-09-20 18:09:14 +0800
 categories: projects
 ---
 

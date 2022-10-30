@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Minesweeper in C++"
-date:   2022-09-16 18:09:14 +0800
 categories: projects
 ---
 Minesweeper is a very common game. This game consists of a grid of clickable squares, with hidden "mines" scattered throughout the board. The objective is to clear the board without detonating any mines, with help from clues about the number of neighboring mines in each field.

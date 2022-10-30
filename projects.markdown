@@ -8,7 +8,7 @@ permalink: /projects/
 {% for category in site.categories %}
     <ul>
     {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="/mypage/{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}

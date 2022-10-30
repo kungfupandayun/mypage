@@ -18,4 +18,4 @@ On May 25, 2018, The General Data Protection Regulation (EU) became enforceable 
 
 
 [1]:{{ site.url }}/assets/documents/report_2020_en.pdf
-[2]:{{ site.url }}/assets/documents/report_2020_fr.pdf
+[2]:{{ site.url }}/assets/documents/report_2020_en.tex

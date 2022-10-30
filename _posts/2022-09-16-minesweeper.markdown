@@ -15,9 +15,9 @@ Minesweeper is a very common game. This game consists of a grid of clickable squ
 
 This is my first project that i and my teammate developped back then in 2017. The technical part of this game is quite intuitive. The scatter of bombs using math.random. The calculation of hint done after the scatter of bombs. 
 
-
+{:refdef: style="text-align: center;"}
 ![minesweeper](/mypage//assets/images/minesweeper.jpg){: .center}
-
+{: refdef}
 
 [Here's an executable file that you can download and play!][1]
 

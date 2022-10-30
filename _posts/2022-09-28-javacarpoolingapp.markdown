@@ -17,11 +17,5 @@ Database design
 </a>
 
 Application design -MVC
-<a href="\assets\images\java_applicationdesignMVC.jpg">
-    <center>
-        <img 
-            src="\assets\images\java_applicationdesignMVC.jpg" 
-            alt="Application design"
-        >
-    </center>
-</a>
+![image tooltip here](/assets/images/java_applicationdesignMVC.jpg)
+
